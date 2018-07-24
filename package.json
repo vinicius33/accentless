@@ -1,13 +1,17 @@
 {
   "name": "accentless",
   "version": "1.0.0",
-  "description": "",
+  "description": "A stupid module to remove accents and diacritics using vanilla JS",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinicius33/accentless.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "vinicius33",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^23.4.1"
   }
